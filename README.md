@@ -1,2 +1,2 @@
 # praveenkanwat.github.io
-To be updated soon!
+Website https://praveenkanwat.github.io
