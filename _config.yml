@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Awesome ML AI Blog
-email: praveen.kanwat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We would start writing about PyTorch and Deep Learning and later we would move to Large Language Model.
 baseurl: "" # the subpath of your site, e.g. /blog
